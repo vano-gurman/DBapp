@@ -1,0 +1,15 @@
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\DataAccessLibrary.deps.json
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\obj\Debug\netstandard2.0\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\obj\Debug\netstandard2.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\obj\Debug\netstandard2.0\DataAccessLibrary.dll
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\obj\Debug\netstandard2.0\DataAccessLibrary.pdb
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\obj\Debug\netstandard2.0\DataAccessLibrary.csproj.CopyComplete
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\baho1\Documents\GitHub\DBapp\DataAccess\bin\Debug\netstandard2.0\ClassLibrary.pdb

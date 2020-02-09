@@ -1,0 +1,8 @@
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb
+C:\Users\baho1\Documents\GitHub\DBapp\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
